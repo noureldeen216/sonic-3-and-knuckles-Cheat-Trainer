@@ -11,7 +11,7 @@ A cheat trainer tool for the Sonic 3 & Knuckles Collection (PC Port) The tool co
 * Aka Give You infinite Rings and Lives 
 
 ## How to Use
-1. Open the game (SONIC3K.EXE)
+1. Open the game (SONIC3K.EXE) OR (RUNSONIC.EXE)
 2. Open the Trainer tool
 3. Wait until the status shows "CONNECTED TO GAME"
 4. Turn on the cheats you want to use

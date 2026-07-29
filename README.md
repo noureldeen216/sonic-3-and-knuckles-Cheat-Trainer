@@ -2,22 +2,28 @@
 
 # Sonic 3 & Knuckles PC Port - Cheat Trainer
 
-## Overview
-A cheat trainer tool for the Sonic 3 & Knuckles Collection (PC Port) The tool connects to the game to modify and freeze values in real-time
+# Description
 
-## Cheats
-* Freeze Rings: Instantly locks your ring count at 99
-* Freeze Lives: Instantly locks your lives count at 99 
-* Aka Give You infinite Rings and Lives 
+A lightweight cheat trainer built specifically for the PC version of Sonic 3 & Knuckles (SONIC3K.EXE). Modifies process memory in real-time.
+Note: Works only on the native PC executable (SONIC3K.EXE). Does NOT work on emulators or ROMs.
 
-## How to Use
-1. Open the game (SONIC3K.EXE) OR (RUNSONIC.EXE)
-2. Open the Trainer tool
-3. Wait until the status shows "CONNECTED TO GAME"
-4. Turn on the cheats you want to use
+# Main Features
 
-## ⚠️ Important Note
-Antivirus software might flag this tool. This is a false positive because the tool has to inject into the game process to freeze the values. Run as Administrator if it gets blocked
+Infinite Rings: Sets rings to 99.
+
+Infinite Lives: Sets lives to 99.
+
+# How to Use
+
+1 - Launch SONIC3K.EXE.
+
+2 - Run the trainer as Administrator.
+
+3 - Toggle cheats via the GUI buttons.
+
+# Antivirus Note
+
+Since the tool modifies live RAM memory, some antivirus software may trigger a false positive. The app is completely safe.
 
 ## Credits
 Created by Noureldeen Ahmed 
